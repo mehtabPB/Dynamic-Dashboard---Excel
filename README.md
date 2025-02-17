@@ -8,7 +8,7 @@ Problems Solved
 
 
 
-![Uploading image.png…]()
+
 
 _________________________________________________________________________________________________________________________________________________________
 This dashboard addresses the following key challenges for retail businesses:
