@@ -1,6 +1,15 @@
 # Dynamic-Dashboard---Excel
 Welcome to the Dynamic Retail Dashboard repository! This project is designed to help retail businesses visualize and analyze their sales, inventory, and customer data in real-time using Microsoft Excel. The dashboard is fully interactive, allowing users to filter, drill down, and explore key performance metrics with ease.
 Problems Solved
+
+
+![image](https://github.com/user-attachments/assets/73fc309e-8937-40fb-b7eb-5e600f3ac397)
+
+
+
+
+![Uploading image.png…]()
+
 _________________________________________________________________________________________________________________________________________________________
 This dashboard addresses the following key challenges for retail businesses:
 
